@@ -1,0 +1,7 @@
+path: D:\YOLO Fish Project\code\data  # dataset root dir
+train: D:\YOLO Fish Project\code\data\images  # train images (relative to 'path')
+val: D:\YOLO Fish Project\code\data\images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: fish
